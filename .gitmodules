@@ -1,0 +1,3 @@
+[submodule "SimpleHotelBookingSystem"]
+	path = SimpleHotelBookingSystem
+	url = https://github.com/MyoThura86/NewHotelBookingSystem.git
